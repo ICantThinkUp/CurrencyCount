@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "currency",
+      "type": "com.alfabank_test.demo.model.Currency",
+      "sourceType": "com.alfabank_test.demo.model.Currency"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

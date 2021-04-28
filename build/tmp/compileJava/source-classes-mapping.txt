@@ -1,0 +1,22 @@
+com/alfabank_test/demo/decoders/ResponseDecoder.java
+ com.alfabank_test.demo.decoders.ResponseDecoder
+com/alfabank_test/demo/services/GifService.java
+ com.alfabank_test.demo.services.GifService
+com/alfabank_test/demo/interfases/CurrencyClient.java
+ com.alfabank_test.demo.interfases.CurrencyClient
+com/alfabank_test/demo/controller/AppController.java
+ com.alfabank_test.demo.controller.AppController
+interceptors/GifRequestInterceptor.java
+ interceptors.GifRequestInterceptor
+com/alfabank_test/demo/DemoApplication.java
+ com.alfabank_test.demo.DemoApplication
+com/alfabank_test/demo/interfases/GifClient.java
+ com.alfabank_test.demo.interfases.GifClient
+com/alfabank_test/demo/config/AppConfig.java
+ com.alfabank_test.demo.config.AppConfig
+com/alfabank_test/demo/responses/GifBodyResponse.java
+ com.alfabank_test.demo.responses.GifBodyResponse
+com/alfabank_test/demo/model/Currency.java
+ com.alfabank_test.demo.model.Currency
+com/alfabank_test/demo/services/CurrencyService.java
+ com.alfabank_test.demo.services.CurrencyService
